@@ -10,6 +10,9 @@ namespace ConsoleApp25
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("jk");
+            int j = 9;
+
         }
     }
 }
