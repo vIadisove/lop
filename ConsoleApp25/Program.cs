@@ -10,6 +10,7 @@ namespace ConsoleApp25
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Хуй");
         }
     }
 }
